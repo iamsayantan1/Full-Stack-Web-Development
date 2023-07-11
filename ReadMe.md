@@ -134,6 +134,8 @@ System.out.println(name);
 | Cell 1      |    Cell 2     |    Cell 3     |
 | Cell 4      |    Cell 5     |    Cell 6     |
 
+<br />
+
 21\. **Code** <br /> 
 >Write a code here to generate odd numbers upto 100 <br /> Hi, how are you doing. 
 
