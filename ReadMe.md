@@ -9,7 +9,7 @@
 1. Subject 1,
 2. Subject 2,
 3. Subject 3
-   1. Sub-Subject 1
+   1. Sub-Subject
 
 <br />
 
@@ -40,7 +40,7 @@
 
 6\.  **Comment code** <br />
 \\ <br />
-\**\<Strong/Bold>**
+\**\<Comment>**
 
 7\. **Heading** <br />
 \# \<Heading> 
