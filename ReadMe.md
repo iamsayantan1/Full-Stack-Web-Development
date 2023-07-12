@@ -4,7 +4,7 @@
 1\. Subject 1, <br />
 2\. Subject 2, <br />
 3\. Subject 3 <br />
-&emsp;&emsp;1\. Sub-Subject 1 <br />
+&emsp;1\. Sub-Subject <br />
 
 1. Subject 1,
 2. Subject 2,
