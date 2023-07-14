@@ -68,6 +68,10 @@ continue . . .
 \_\<Italics>_ &nbsp; <br>
 _\<Italics>_ &nbsp; <br>
 
+**Alternate method for Italics** <br />
+\*\<Italics>* &nbsp; <br>
+*\<Italics>* &nbsp; <br>
+
 12\.  **Underline** <br />
 \<u>\<Underline>\</u> <br>
 <u>\<Underline></u> <br>
