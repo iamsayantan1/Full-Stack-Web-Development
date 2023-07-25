@@ -1,0 +1,10 @@
+# Removing specific png files
+goal.png
+goal?.png
+
+# Removing specific html files
+solution.html
+solution?.html
+
+# Removing specific folders
+**/Solution
