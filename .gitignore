@@ -11,3 +11,7 @@ settings.json
 
 # Removing specific folders
 **/Solution
+
+# Removing rough files
+rough.html
+rough.css
