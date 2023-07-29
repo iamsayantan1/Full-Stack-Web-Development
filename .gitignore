@@ -6,5 +6,8 @@ goal?.png
 solution.html
 solution?.html
 
+# Removing specific json files
+settings.json
+
 # Removing specific folders
 **/Solution
