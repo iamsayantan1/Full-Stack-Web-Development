@@ -1,17 +1,15 @@
-# Removing specific png files
-goal.png
-goal?.png
-
-# Removing specific html files
-solution.html
-solution?.html
-
-# Removing specific json files
-settings.json
-
-# Removing specific folders
+# Removing folders
 **/Solution
 
-# Removing rough files
-rough.html
-rough.css
+# Removing files
+settings.json
+
+solution.*
+solution?.*
+
+goal.*
+goal?.*
+
+rough.*
+
+.hintrc
