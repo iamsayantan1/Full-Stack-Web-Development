@@ -1,5 +1,7 @@
 # Removing folders
 **/Solution
+.vscode
+**/8.2 Responsiveness
 
 # Removing files
 settings.json
