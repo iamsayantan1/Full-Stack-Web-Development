@@ -26,7 +26,6 @@ span.blue.text  {
   }
 
   .card img {
-    display: inline-block;
     float: left;
     height: 200px;
     margin-right: 50px;
